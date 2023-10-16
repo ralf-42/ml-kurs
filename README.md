@@ -5,7 +5,7 @@ Hier finden Sie alle Unterlagen zum Kurs. 😉
 Verzeichnisse:
 
 + 01 src (Jupyter Notebooks)
-    + 01 module
+    + 01 beispiele
     + 02 training
     + 03 loesung
 + 02 data (Daten für Analysen/Modelle)
